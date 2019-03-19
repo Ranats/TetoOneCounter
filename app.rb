@@ -1,8 +1,4 @@
-require 'tesseract-ocr'
+require 'rtesseract'
 
-e = Tesseract::Engine.new{ |e|
-  e.language = :eng
-  e.psm = 8
-}
-
-p e.hocr_for('testData/6_trim_edit_bin34.png')
+image = RTesseract.new("testData/6_trim_edit_bin34.png", psm: 8)
+p image.to_box
