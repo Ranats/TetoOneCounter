@@ -8,6 +8,11 @@ Rank tracker for Tetris99
 - Ruby 2.6.1p33
 - Tesseract v4.0.0.20190314
 
+- ImageMagick-6.9.10-34-Q16-x64-dll.exe
+
+- ImageMagick 6
+- RMagick 3.0.0
+
 # WIP
 gem
 - tesseract-ocr

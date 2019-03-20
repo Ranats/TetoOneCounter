@@ -4,6 +4,7 @@ GEM
     mini_portile2 (2.4.0)
     nokogiri (1.10.1-x64-mingw32)
       mini_portile2 (~> 2.4.0)
+    rmagick (3.0.0)
     rtesseract (3.0.3)
       nokogiri
 
@@ -11,6 +12,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  rmagick
   rtesseract
 
 BUNDLED WITH
