@@ -13,6 +13,8 @@ Rank tracker for Tetris99
 - ImageMagick 6
 - RMagick 3.0.0
 
+- 画像サイズ：1280x720, (1200x675, 1920x1080)
+
 # WIP
 gem
 - tesseract-ocr
@@ -22,3 +24,10 @@ gem
 - rtesseract
   - RMagickで画像処理した後，tesseractコマンドを実行している．らしい．
   - 中身よくわからんのでやっぱりkNN書いた方が良さそう
+  
+ToDo
+- 1～3位はフォントサイズが違う  
+→ テンプレートマッチング？
+
+- なんかそもそもフォントが違う  
+→ アップデートによりフォントが変更になった
