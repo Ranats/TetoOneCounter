@@ -31,3 +31,9 @@ ToDo
 
 - なんかそもそもフォントが違う  
 → アップデートによりフォントが変更になった
+
+- 15 が 1S に判定される  
+→ 1S を判定して 15として格納？
+
+- command  
+tesseract file out --psm 7 digits; cat out.txt
