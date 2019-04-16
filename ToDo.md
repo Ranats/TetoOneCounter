@@ -18,7 +18,8 @@
  テンプレートマッチングをする？  
  -> OpenCV ?  
  ROpenCV と OpenCV 3.0 つかえる？ (他のRuby-OpenCV gem は2系しかサポートしてなさそう)  
- https://github.com/D-Alex/ropencv
+ https://github.com/D-Alex/ropencv  
+ https://qiita.com/khsk/items/ef73d9520874db2767de
  
 - 15 が 1S に判定される  
 → 1S を判定して 15として格納？
