@@ -21,5 +21,10 @@
  https://github.com/D-Alex/ropencv  
  https://qiita.com/khsk/items/ef73d9520874db2767de
  
+- GUI  
+  GTK 3 / Glade  
+  https://qiita.com/kojix2/items/d9da8e08757dcc6b1a7d
+  
+ 
 - 15 が 1S に判定される  
 → 1S を判定して 15として格納？
